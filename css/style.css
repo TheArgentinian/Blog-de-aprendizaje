@@ -1,0 +1,33 @@
+html, 
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Source Sans 3', sans-serif;
+}
+
+.logo{
+    height: 26px;
+    margin-left: 1em;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-links{
+    text-decoration: none;
+    font-weight: 600;
+    color: #090909;
+    margin-right: 1em;
+    padding-top: 8em;
+}
+
+.img-hero{
+    width: 100vw;
+}
+
+.hero-sect{
+    background-image: url("images/blog-image-hero.png");
+}
