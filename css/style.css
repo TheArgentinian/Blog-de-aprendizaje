@@ -29,5 +29,14 @@ header{
 }
 
 .hero-sect{
-    background-image: url("images/blog-image-hero.png");
+    background-image: url("/images/blog-image-hero.png");
+    width: 1085px;
+    height: 488px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+
+p{
+    color: white;
 }
