@@ -40,3 +40,7 @@ header{
 p{
     color: white;
 }
+
+.blog-posts p{
+    color: black;
+}
