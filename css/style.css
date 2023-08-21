@@ -44,3 +44,9 @@ p{
 .blog-posts p{
     color: black;
 }
+
+.blog-posts{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1em;
+}
